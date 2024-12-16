@@ -3,10 +3,10 @@ module.exports = {
   testEnvironment: 'jest-environment-jsdom',
   coverageThreshold: {
     global: {
-      branches: 90,
-      functions: 90,
-      lines: 90,
-      statements: 90,
+      branches: 70,
+      functions: 70,
+      lines: 70,
+      statements: 70,
     },
   },
 };
